@@ -1,5 +1,5 @@
 ---
-title: Enrique Guillen
+title: jose
 bio: 'Desarrollador de software '
 avatar: "/images/foto-perfil.jpeg"
 social:
