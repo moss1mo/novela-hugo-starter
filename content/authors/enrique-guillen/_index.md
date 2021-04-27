@@ -1,6 +1,6 @@
 ---
 title: Enrique Guillén
-bio: lalala
+bio: Desarrollador de software
 avatar: "/images/foto-perfil.jpeg"
 social: []
 featured: true
