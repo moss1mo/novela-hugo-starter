@@ -7,7 +7,6 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
 secret: true
 timeToRead: 8
 authors:
-- Enrique Guillén
 - Enrique Guillen
 
 ---
