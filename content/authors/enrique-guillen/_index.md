@@ -1,5 +1,5 @@
 ---
-title: Enrique Guillen
+title: Enrique Guillén
 bio: lalala
 avatar: "/images/foto-perfil.jpeg"
 social: []
