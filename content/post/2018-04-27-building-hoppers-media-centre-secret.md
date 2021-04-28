@@ -249,3 +249,7 @@ Without the Gatsby lifecycle, it would be impossible to customize and modify you
     
     
     
+    {{< subscribe email="your@email.com" >}}
+
+    
+    
