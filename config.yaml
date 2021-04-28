@@ -1,5 +1,5 @@
 baseURL: "https://example.com"
-languageCode: "es-mx"
+languageCode: "es-es"
 title: "ECODER"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
